@@ -20,4 +20,6 @@
   - P142：第一个代码块 shellcode 一行改为 `(*(void(*)())shellcode)();`。 -- @winter
   - P215：文字第二段倒数第二行的参数，改为 `reloc_index`。 -- @Return
   - P228：PREV_INUSE 部分，改为 `当它为 1 时，表示上一个 chunk 处于使用状态，否则表示上一个 chunk 处于释放状态`。 -- @These-us
+  - P230：unsorted bin 部分，`unsroted bin 中的 chunk 大小可能是不同的` 中的 `unsroted` 改为 `unsorted`。 -- @Y7n05h
+  - P234：代码部分，`如果下一个 chunk 处于使用状态则执行向前合并操作` 中的 `使用状态` 改为 `空闲状态`。 -- @Y7n05h
   - P410：文字第二段第一行，改为 `栈是从高地址向低地址增长的`。 -- @unr4v31
