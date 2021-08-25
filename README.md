@@ -6,11 +6,15 @@
 
 读者交流QQ群：808542982
 
-![img](./qqgroup.png)
+<div align="center">
+	<img src="./qqgroup.png" alt="qq" width="100">
+</div>
 
 知识星球作为增值服务，加我微信发一张书的照片可以免费加入：
 
-![img](./zsxq.png)
+<div align="center">
+	<img src="./zsxq.png" alt="zsxq" width="300">
+</div>
 
 ## 勘误
 
