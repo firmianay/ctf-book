@@ -4,11 +4,12 @@
 
 [京东购买](https://item.jd.com/13041828.html) [当当购买](http://product.dangdang.com/29166115.html)
 
-读者交流QQ群：808542982
+读者交流QQ群：808542982、217863340
 
-<div align="left">
-	<img src="./qqgroup.png" alt="qq" width="100">
-</div>
+<table><tr>
+<td><img src=./qqgroup.jpg width="100"></td>
+<td><img src=./qqgroup2.jpg width="100"></td>
+</tr></table>
 
 知识星球作为增值服务，加我微信发一张书的照片可以免费加入：
 
