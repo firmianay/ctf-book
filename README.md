@@ -6,16 +6,14 @@
 
 读者交流QQ群：808542982、217863340
 
+微信群请加我微信，备注“加群”。欢迎关注公众号：
+
 <table><tr>
-<td><img src=./qqgroup.jpg width="100"></td>
-<td><img src=./qqgroup2.jpg width="100"></td>
+<td><img src=./gzh.jpg width="100"></td>
+<td><img src=./wechat.jpg width="100"></td>
 </tr></table>
 
-知识星球作为增值服务，加我微信发一张书的照片可以免费加入：
-
-<div align="left">
-	<img src="./zsxq.png" alt="zsxq" width="300">
-</div>
+**图书编写耗时费力，倾注了作者大量的心力，打击盗版，维护正版！**
 
 ## 勘误
 
@@ -35,3 +33,7 @@
 - 第 3 次印刷（2021-08）：
   - P229：fast bin部分第三行 `PRV_INUSE` 改为 `PREV_INUSE`。 -- @李寻欢
 - 第 4 次印刷（2022-01）：
+
+## 关注我们
+
+[VulnTotal安全团队]((https://github.com/VulnTotal-Team))的翻译组，负责从国外优秀媒体翻译 安全/计算机 相关的技术、资讯、论文等内容。欢迎更多的志愿者[关注或加入我们](https://github.com/VulnTotal-Team/TranslateProject)。
