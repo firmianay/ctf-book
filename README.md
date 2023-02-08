@@ -36,4 +36,5 @@
 
 ## 关注我们
 
-[VulnTotal 翻译组](https://github.com/VulnTotal-Team)负责从国外优秀媒体翻译 安全/计算机 相关的技术、资讯、论文等内容。欢迎更多的志愿者[加入我们](https://github.com/VulnTotal-Team/TranslateProject)。
+[VulnTotal安全](https://github.com/VulnTotal-Team)致力于分享高质量原创文章和开源工具，包括物联网/汽车安全、移动安全、网络攻防等。
+
